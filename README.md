@@ -7,21 +7,20 @@ WITH DAGGER HILT
 -USER CREATING, LOGIN AND NOTIFICATIONS
 -CHAT ROOMS IN APP AND CREATING NEW ONE TALKING WITH EACH OTHER ALSO SENDING IMAGE OR CAMERA TAKING IMAGES
 
-![Screenshot_20240918_143507](https://github.com/user-attachments/assets/df7982d4-7d9e-457d-8886-8b25fd84537f)
+![Screenshot_20240918_143507](https://github.com/user-attachments/assets/3018c89b-ae08-4e96-ae89-dfbf5c1ab0d8)
 
+![Screenshot_20240918_143630](https://github.com/user-attachments/assets/a4d5499d-3a4b-4284-8c02-e1fd7b414602)
 
-![Screenshot_20240918_143630](https://github.com/user-attachments/assets/dba9a6c9-57a6-4c2c-91f3-db041b8e5cfb)
+![Screenshot_20240918_144000](https://github.com/user-attachments/assets/30dbe545-7fab-4210-a8c9-0b6ecef27902)
 
-![Screenshot_20240918_144000](https://github.com/user-attachments/assets/f036dfa0-9c06-4bfc-9e47-9261a0b1a890)
+![Screenshot_20240918_144021](https://github.com/user-attachments/assets/14b27060-47dd-4b30-b732-45328357abdb)
 
-![Screenshot_20240918_144021](https://github.com/user-attachments/assets/ed790faa-9a3c-49b9-9db8-7a7b276f7282)
+![Screenshot_20240918_144033](https://github.com/user-attachments/assets/667861d2-6691-4156-96a3-79cb9f42be6d)
 
-![Screenshot_20240918_144033](https://github.com/user-attachments/assets/3d397c2b-e77f-47ca-bae7-0c57832fb6d9)
+![Screenshot_20240918_144104](https://github.com/user-attachments/assets/17192f23-bca8-4f54-8bc2-a9367ca5053d)
 
-![Screenshot_20240918_144104](https://github.com/user-attachments/assets/a2312f0c-6fea-4467-bcc5-99f8a00f09e2)
+![Screenshot_20240918_144204](https://github.com/user-attachments/assets/fcd5a13f-84c1-4913-85b9-277af72de490)
 
-![Screenshot_20240918_144204](https://github.com/user-attachments/assets/4adf1597-cd65-4fa1-98e3-5330d5000170)
+![Screenshot_20240918_145107](https://github.com/user-attachments/assets/0207165b-fe8c-4ecd-a3b9-000b3cc91324)
 
-![Screenshot_20240918_145107](https://github.com/user-attachments/assets/e3a4f4d9-7c09-461a-8145-f91c87b12712)
-
-![Screenshot_20240918_145254](https://github.com/user-attachments/assets/c6020a24-bd29-43fa-90f8-28af70c3c0f5)
+![Screenshot_20240918_145254](https://github.com/user-attachments/assets/2a9477ab-227a-4e28-b9da-538b3bf3c9cc)
