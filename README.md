@@ -7,9 +7,7 @@ WITH DAGGER HILT
 -USER CREATING, LOGIN AND NOTIFICATIONS
 -CHAT ROOMS IN APP AND CREATING NEW ONE TALKING WITH EACH OTHER ALSO SENDING IMAGE OR CAMERA TAKING IMAGES
 
-![Screenshot_20240918_143507](https://github.com/user-attachments/assets/21374829-4fb9-4233-b2bd-b4675066dba8)
-
-![Screenshot_20240918_143630](https://github.com/user-attachments/assets/dba9a6c9-57a6-4c2c-91f3-db041b8e5cfb)
+![Screenshot_20240918_143507](https://github.com/user-attachments/assets/21374829-4fb9-4233-b2bd-b4675066dba8) ![Screenshot_20240918_143630](https://github.com/user-attachments/assets/dba9a6c9-57a6-4c2c-91f3-db041b8e5cfb)
 
 ![Screenshot_20240918_144000](https://github.com/user-attachments/assets/f036dfa0-9c06-4bfc-9e47-9261a0b1a890)
 
